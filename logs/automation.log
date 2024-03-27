@@ -1,0 +1,98 @@
+2024-03-19 14:47:51,656: INFO: utilities.customLogger : ****** verifying home page login *******
+2024-03-19 14:47:55,432: INFO: utilities.customLogger : ****** login successfull *******
+2024-03-19 14:47:55,432: INFO: utilities.customLogger : ****** adding new customer data *******
+2024-03-19 14:48:06,159: INFO: utilities.customLogger : ****** new customer details added *******
+2024-03-19 14:48:06,577: INFO: utilities.customLogger : ****** add customer test passed with screenshot *******
+2024-03-20 11:43:04,469: INFO: utilities.customLogger : ****** verifying home page login *******
+2024-03-20 11:43:04,469: INFO: utilities.customLogger : ****** verifying home page login *******
+2024-03-20 11:43:04,469: INFO: utilities.customLogger : ****** verifying home page login *******
+2024-03-20 11:43:07,907: INFO: utilities.customLogger : ****** login successfull *******
+2024-03-20 11:43:07,907: INFO: utilities.customLogger : ****** login successfull *******
+2024-03-20 11:43:07,907: INFO: utilities.customLogger : ****** login successfull *******
+2024-03-20 11:43:07,907: INFO: utilities.customLogger : ****** adding new customer data *******
+2024-03-20 11:43:07,907: INFO: utilities.customLogger : ****** adding new customer data *******
+2024-03-20 11:43:07,907: INFO: utilities.customLogger : ****** adding new customer data *******
+2024-03-20 11:43:17,384: INFO: utilities.customLogger : ****** new customer details added *******
+2024-03-20 11:43:17,384: INFO: utilities.customLogger : ****** new customer details added *******
+2024-03-20 11:43:17,384: INFO: utilities.customLogger : ****** new customer details added *******
+2024-03-20 11:43:17,667: INFO: utilities.customLogger : ****** add customer test passed with screenshot *******
+2024-03-20 11:43:17,667: INFO: utilities.customLogger : ****** add customer test passed with screenshot *******
+2024-03-20 11:43:17,667: INFO: utilities.customLogger : ****** add customer test passed with screenshot *******
+2024-03-20 11:43:17,669: INFO: utilities.customLogger : ****** verifying home page title *******
+2024-03-20 11:43:17,669: INFO: utilities.customLogger : ****** verifying home page title *******
+2024-03-20 11:43:17,669: INFO: utilities.customLogger : ****** verifying home page title *******
+2024-03-20 11:43:21,850: INFO: utilities.customLogger : ****** home page title is passed *******
+2024-03-20 11:43:21,850: INFO: utilities.customLogger : ****** home page title is passed *******
+2024-03-20 11:43:21,850: INFO: utilities.customLogger : ****** home page title is passed *******
+2024-03-20 11:43:28,609: INFO: utilities.customLogger : ****** verifying login page title *******
+2024-03-20 11:43:28,609: INFO: utilities.customLogger : ****** verifying login page title *******
+2024-03-20 11:43:28,609: INFO: utilities.customLogger : ****** verifying login page title *******
+2024-03-20 11:43:28,745: INFO: utilities.customLogger : ****** login page title is passed *******
+2024-03-20 11:43:28,745: INFO: utilities.customLogger : ****** login page title is passed *******
+2024-03-20 11:43:28,745: INFO: utilities.customLogger : ****** login page title is passed *******
+2024-03-20 11:45:27,391: INFO: utilities.customLogger : ****** verifying login page title *******
+2024-03-20 11:45:27,391: INFO: utilities.customLogger : ****** verifying login page title *******
+2024-03-20 11:45:27,391: INFO: utilities.customLogger : ****** verifying login page title *******
+2024-03-20 11:45:27,529: INFO: utilities.customLogger : ****** login page title is passed *******
+2024-03-20 11:45:27,529: INFO: utilities.customLogger : ****** login page title is passed *******
+2024-03-20 11:45:27,529: INFO: utilities.customLogger : ****** login page title is passed *******
+2024-03-20 11:45:27,680: INFO: utilities.customLogger : ****** test_2_ddt login *******
+2024-03-20 11:45:27,680: INFO: utilities.customLogger : ****** test_2_ddt login *******
+2024-03-20 11:45:27,680: INFO: utilities.customLogger : ****** test_2_ddt login *******
+2024-03-20 11:45:27,680: INFO: utilities.customLogger : ****** verifying login_ddt  *******
+2024-03-20 11:45:27,680: INFO: utilities.customLogger : ****** verifying login_ddt  *******
+2024-03-20 11:45:27,680: INFO: utilities.customLogger : ****** verifying login_ddt  *******
+2024-03-20 11:45:36,444: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 11:45:36,444: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 11:45:36,444: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 11:45:40,946: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 11:45:40,946: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 11:45:40,946: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 11:45:46,967: INFO: utilities.customLogger : TITLE IS MATCHED
+2024-03-20 11:45:46,967: INFO: utilities.customLogger : TITLE IS MATCHED
+2024-03-20 11:45:46,967: INFO: utilities.customLogger : TITLE IS MATCHED
+2024-03-20 11:45:53,745: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 11:45:53,745: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 11:45:53,745: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 11:45:53,745: INFO: utilities.customLogger : data driven testing is passed
+2024-03-20 11:45:53,745: INFO: utilities.customLogger : data driven testing is passed
+2024-03-20 11:45:53,745: INFO: utilities.customLogger : data driven testing is passed
+2024-03-20 12:14:03,578: INFO: utilities.customLogger : ****** verifying login page title *******
+2024-03-20 12:14:03,578: INFO: utilities.customLogger : ****** verifying login page title *******
+2024-03-20 12:14:03,578: INFO: utilities.customLogger : ****** verifying login page title *******
+2024-03-20 12:14:03,717: INFO: utilities.customLogger : ****** login page title is passed *******
+2024-03-20 12:14:03,717: INFO: utilities.customLogger : ****** login page title is passed *******
+2024-03-20 12:14:03,717: INFO: utilities.customLogger : ****** login page title is passed *******
+2024-03-20 12:14:03,844: INFO: utilities.customLogger : ****** test_2_ddt login *******
+2024-03-20 12:14:03,844: INFO: utilities.customLogger : ****** test_2_ddt login *******
+2024-03-20 12:14:03,844: INFO: utilities.customLogger : ****** test_2_ddt login *******
+2024-03-20 12:14:03,845: INFO: utilities.customLogger : ****** verifying login_ddt  *******
+2024-03-20 12:14:03,845: INFO: utilities.customLogger : ****** verifying login_ddt  *******
+2024-03-20 12:14:03,845: INFO: utilities.customLogger : ****** verifying login_ddt  *******
+2024-03-20 12:14:12,377: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 12:14:12,377: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 12:14:12,377: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 12:14:16,889: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 12:14:16,889: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 12:14:16,889: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 12:14:22,874: INFO: utilities.customLogger : TITLE IS MATCHED
+2024-03-20 12:14:22,874: INFO: utilities.customLogger : TITLE IS MATCHED
+2024-03-20 12:14:22,874: INFO: utilities.customLogger : TITLE IS MATCHED
+2024-03-20 12:14:29,777: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 12:14:29,777: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 12:14:29,777: INFO: utilities.customLogger : title not matched and status is fail
+2024-03-20 12:14:29,778: INFO: utilities.customLogger : data driven testing is passed
+2024-03-20 12:14:29,778: INFO: utilities.customLogger : data driven testing is passed
+2024-03-20 12:14:29,778: INFO: utilities.customLogger : data driven testing is passed
+2024-03-27 11:20:52,958: INFO: utilities.customLogger : ****** verifying home page login *******
+2024-03-27 11:20:56,542: INFO: utilities.customLogger : ****** login successfull *******
+2024-03-27 11:20:56,542: INFO: utilities.customLogger : ****** adding new customer data *******
+2024-03-27 11:23:45,755: INFO: utilities.customLogger : ****** verifying home page login *******
+2024-03-27 11:23:49,306: INFO: utilities.customLogger : ****** login successfull *******
+2024-03-27 11:23:49,306: INFO: utilities.customLogger : ****** adding new customer data *******
+2024-03-27 11:41:50,776: INFO: utilities.customLogger : ****** verifying home page login *******
+2024-03-27 11:41:54,384: INFO: utilities.customLogger : ****** login successfull *******
+2024-03-27 11:41:54,384: INFO: utilities.customLogger : ****** adding new customer data *******
+2024-03-27 11:42:40,597: INFO: utilities.customLogger : ****** verifying home page login *******
+2024-03-27 11:42:44,278: INFO: utilities.customLogger : ****** login successfull *******
+2024-03-27 11:42:44,278: INFO: utilities.customLogger : ****** adding new customer data *******
